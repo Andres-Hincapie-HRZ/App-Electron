@@ -1,7 +1,7 @@
 # App-Electron
 
 Aplicación de escritorio creada con Electron que muestra el sitio web de Midu Dev en una ventana nativa.
-![Uploading image.png…]()
+<img width="1103" height="611" alt="image" src="https://github.com/user-attachments/assets/ffecac34-be51-4c30-8f3a-f62fee3c7798" />
 
 
 **Creador:** Andrés Hincapie Ruiz  
@@ -167,5 +167,6 @@ ISC
 ---
 
 Este proyecto fue creado como ejemplo educativo de una aplicación Electron básica.
+
 
 
